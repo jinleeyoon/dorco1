@@ -137,6 +137,8 @@ header .gnb>li .sub>li>a{
     background-repeat: no-repeat;
     
 }
+.product .proEx>div:hover{
+    background-color: grey;}
 .product .proEx .box1{
     margin-right: 10px;
 }

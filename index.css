@@ -135,7 +135,7 @@ header .gnb>li .sub>li>a{
     background-color: white;
     background-image: url(images/ico_product.png);
     background-repeat: no-repeat;
-    
+    transition: all 0.5s; 
 }
 .product .proEx>div:hover{
     background-color: grey;
